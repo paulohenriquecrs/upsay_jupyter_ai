@@ -15,7 +15,7 @@ In an academic setting, particularly within STEM fields, Jupyter Notebooks have 
 
 ## Getting Started
 
-To start using UPSayAI in your Jupyter environment, install the `upsay_jupyter_ai` package, then initialize an instance of the `UPSayAI` class with your preferred settings. 
+To start using UPSayAI in your Jupyter environment, install the `upsay_jupyter_ai` [package](https://pypi.org/project/upsay_jupyter_ai), then initialize an instance of the `UPSayAI` class with your preferred settings. 
 
 ### Installation
 
