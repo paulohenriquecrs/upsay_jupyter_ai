@@ -1,7 +1,3 @@
-Here’s a README description that highlights the key details and provides a concise overview for prospective users and contributors:
-
----
-
 # UPSayAI: Generative AI Toolkit for Jupyter Notebooks
 
 **UPSayAI** is a Python toolkit developed for students at Université Paris-Saclay, designed to integrate Generative AI features directly into Jupyter Notebooks. Created during an M1 internship with the GALaC team at [LISN](https://www.lisn.fr), this toolkit aims to enhance the educational experience in STEM courses by providing an interactive AI-powered environment for practical learning, coding, and analysis.
