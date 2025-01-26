@@ -45,6 +45,8 @@ UPSayAI(model_name="aristote/llama",
 # Start using AI-enhanced magic commands within your Jupyter Notebook
 ```
 
+For more information, visit the [Guides page](https://github.com/paulohenriquecrs/upsay_jupyter_ai/tree/main/Guides), which includes the User Guide and Developer Guide.
+
 ## Motivation
 
 UPSayAI was inspired by the need for a reliable, open-source Generative AI tool within the educational environment of Université Paris-Saclay. Developed to empower students, the toolkit serves as an assistant that guides them through complex coding tasks and enriches their learning experience by providing interactive AI support in a familiar setting.
